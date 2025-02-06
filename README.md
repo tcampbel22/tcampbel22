@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A backend developer from Australia 🇦🇺 based in Helsinki 🇫🇮</h3>
+<h3 align="center">Software developer from Australia 🇦🇺 based in Helsinki 🇫🇮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcampbel22&label=Profile%20views&color=0e75b6&style=flat" alt="tcampbel22" /> </p>
 
 - 🔭 I’m currently working on [Webserv](https://github.com/tcampbel22/42_hive_webserv)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, Python, Docker at Hive Helsinki**
 
 - 📫 How to reach me **tcampbel22@gmail.com**
 
