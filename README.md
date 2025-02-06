@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **tcampbel22@gmail.com**
 
+<h3 align="left">Check out some of my projects:</h3>
+[Cub3D](https://github.com/tcampbel22/cub3d)
+[Minishell](https://github.com/tcampbel22/42_hive_minishell)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tim-campbell-49b40880?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3baiumf7khtg6y3j5us9nxja%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tim-campbell-49b40880?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3baiumf7khtg6y3j5us9nxja%3d%3d" height="30" width="40" /></a>
