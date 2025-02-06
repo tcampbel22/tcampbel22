@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tcampbel22@gmail.com**
 
-<h3 align="left">Check out some of my projects:</h3>
+<h3 align="left">Check out some of my other projects:</h3>
 
 [Cub3D](https://github.com/tcampbel22/cub3d)
 
