@@ -11,7 +11,7 @@
 
 <h3 align="left">Check out some of my other projects:</h3>
 
-[Webserv](https://github.com/tcampbel22/42_hive_webserv)
+[Webserv](https://github.com/tcampbel22/42_WebServ)
 
 [Cub3D](https://github.com/tcampbel22/cub3d)
 
