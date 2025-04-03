@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Transendence.
 
-- 🌱 I’m currently learning **C++, Python, Docker at Hive Helsinki**
+- 🌱 I’m currently learning **Typescript, SQL & Docker at Hive Helsinki**
 
 - 📫 How to reach me **tcampbel22@gmail.com**
 
