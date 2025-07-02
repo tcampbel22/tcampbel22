@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcampbel22&label=Profile%20views&color=0e75b6&style=flat" alt="tcampbel22" /> </p>
 
-- 🔭 I’m currently working on Transendence.
+- 🔭 I’m currently working on building my own porfolio website.
 
-- 🌱 I’m currently learning **Typescript, SQL & Docker at Hive Helsinki**
+- 🌱 I’m currently learning **ExpressJS and non-relation databases via Full Stack Open from Helsinki University**
 
 - 📫 How to reach me **tcampbel22@gmail.com**
 
