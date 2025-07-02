@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcampbel22&label=Profile%20views&color=0e75b6&style=flat" alt="tcampbel22" /> </p>
 
-- 🔭 I’m currently working on building my own porfolio website.
+- 🔭 I’m currently working on building my own [porfolio website](https://github.com/tcampbel22/portfolio).
 
 - 🌱 I’m currently learning **ExpressJS and non-relational databases via Full Stack Open from Helsinki University**
 
@@ -11,11 +11,13 @@
 
 <h3 align="left">Check out some of my other projects:</h3>
 
-[Webserv](https://github.com/tcampbel22/42_WebServ)
+[Pong online app](https://github.com/tcampbel22/transendence)
 
-[Cub3D](https://github.com/tcampbel22/cub3d)
+[HTTP 1.1 Server](https://github.com/tcampbel22/HTTP_1.1_server)
 
-[Minishell](https://github.com/tcampbel22/42_hive_minishell)
+[2.5D Raycasted Game](https://github.com/tcampbel22/cub3d)
+
+[Custom shell Interpreter](https://github.com/tcampbel22/custom_shell_interpreter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
