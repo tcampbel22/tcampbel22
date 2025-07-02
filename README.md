@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on building my own porfolio website.
 
-- 🌱 I’m currently learning **ExpressJS and non-relation databases via Full Stack Open from Helsinki University**
+- 🌱 I’m currently learning **ExpressJS and non-relational databases via Full Stack Open from Helsinki University**
 
 - 📫 How to reach me **tcampbel22@gmail.com**
 
